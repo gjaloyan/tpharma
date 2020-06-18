@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e73b2890-a4f9-44d7-ab9f-5ef984fe74d8" name="Default Changelist" comment="" />
+    <list default="true" id="e73b2890-a4f9-44d7-ab9f-5ef984fe74d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,6 +177,7 @@
     <option name="width" value="978" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,7 +197,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,11 +246,27 @@
       <workItem from="1592226377690" duration="1681000" />
       <workItem from="1592395671350" duration="46000" />
       <workItem from="1592395750285" duration="278000" />
+      <workItem from="1592396240263" duration="1685000" />
+      <workItem from="1592457296623" duration="681000" />
     </task>
-    <servers />
+    <task id="LOCAL-00001" summary="T-pharma">
+      <created>1592396579494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592396579494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="gjaloyan" />
+        <option name="repoName" value="t-pharma" />
+        <option name="shouldFormatCommitMessage" value="true" />
+      </GitHub>
+    </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33281000" />
+    <option name="totallyTimeSpent" value="35647000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +280,7 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.20166163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.20770393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" sideWeight="0.50121063" side_tool="true" weight="0.19561933" />
@@ -271,11 +293,11 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="LuaCheck" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848944" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Migrations" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49848944" visible="true" weight="0.29761904" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50151056" side_tool="true" weight="0.29761904" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49773413" weight="0.29761904" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50151056" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="SOQL Query" order="14" />
       <window_info anchor="bottom" id="Log Analyzer" order="15" />
       <window_info anchor="bottom" id="Anonymous Apex" order="16" />
@@ -288,6 +310,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="T-pharma" />
+    <option name="LAST_COMMIT_MESSAGE" value="T-pharma" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/index.php">
